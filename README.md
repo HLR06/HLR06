@@ -163,23 +163,43 @@ Digitize schools and universities, centralize academic operations, and improve c
 
 ---
 
+---
+
 ## 🧠 Architecture Philosophy
 
-```yaml
-principles:
+## Principles:
   - Multi-tenant systems
   - Role-Based Access Control (RBAC)
   - API-first architecture
   - Microservices-ready
   - Scalable by design
 
-focus:
+## Focus:
   - System design over features
   - Infrastructure over shortcuts
   - Real-world usability over trends
 
-quote: "Build infrastructure that empowers people."
+## Mantra:
+  *"Build infrastructure that empowers people."*
+
+```mermaid
+mindmap
+  root((Architecture<br/>Philosophy))
+    Principles
+      Multi-tenant systems
+      RBAC
+      API-first
+      Microservices-ready
+      Scalable by design
+    ## Focus
+      System design over features
+      Infrastructure over shortcuts
+      Real-world usability over trends
+   ## Mantra
+      Build infrastructure
+      That empowers people
 ```
+
 
 ---
 
@@ -316,3 +336,5 @@ quote: "Build infrastructure that empowers people."
 ║                                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════════════════════╝
 ```
+
+
